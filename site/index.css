@@ -131,6 +131,11 @@
     padding-bottom: 20px;
 }
 
+.mybut {
+    text-align: center;
+
+}
+
 .bn39 {
   background-image: linear-gradient(120deg,#38003c, #eaff04,#38003c);
   border-radius: 6px;
